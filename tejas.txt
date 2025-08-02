@@ -1,3 +1,0 @@
-hi tejas
-quit
-q
